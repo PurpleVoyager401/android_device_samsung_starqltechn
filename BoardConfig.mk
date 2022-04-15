@@ -26,3 +26,6 @@ TARGET_OTA_ASSERT_DEVICE := starqltechn
 
 # Kernel
 TARGET_KERNEL_CONFIG := starqlte_chn_open_defconfig
+
+# Properties
+TARGET_PRODUCT_PROP += $(DEVICE_PATH)/product.prop

@@ -15,9 +15,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/dot_starqltechn.mk
+    $(LOCAL_DIR)/lineage_starqltechn.mk
 
 COMMON_LUNCH_CHOICES := \
-	dot_starqltechn-user \
-	dot_starqltechn-userdebug \
-	dot_starqltechn-eng
+	lineage_starqltechn-user \
+	lineage_starqltechn-userdebug \
+	lineage_starqltechn-eng

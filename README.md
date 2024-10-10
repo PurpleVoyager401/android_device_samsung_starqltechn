@@ -1,6 +1,6 @@
 # Device Tree for Samsung Galaxy S9 (starqltechn)
 
-The Samsung Galaxy S9 (codenamed "starqltechn") is a top of the line device from Samsung. It was announced in February 2018 and was released in March 2018.
+The Samsung Galaxy S9 (codenamed _"starqltechn"_) is a high-end smartphone from Samsung. It was announced in February 2018. Release date was March 2018.
 
 ## Device specifications
 
@@ -10,8 +10,8 @@ The Samsung Galaxy S9 (codenamed "starqltechn") is a top of the line device from
 | CPU                     | Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver) |
 | GPU                     | Adreno 630                                                      |
 | Memory                  | 4 GB                                                            |
-| Shipped Android Version | 8.0 (OneUI 2.1)                                                 |
-| Storage                 | 64/128 GB UFS 2.1                                               |
+| Shipped Android Version | Android 8.0 (Oreo), upgradable to Android 10, One UI 2.5        |
+| Storage                 | 64/128/256 GB UFS 2.1                                           |
 | SIM                     | Dual SIM (Nano-SIM, dual stand-by)                              |
 | MicroSD                 | Up to 400 GB                                                    |
 | Battery                 | 3000 mAh Li-Ion (non-removable)                                 |
@@ -26,4 +26,5 @@ The Samsung Galaxy S9 (codenamed "starqltechn") is a top of the line device from
 
 ![Samsung Galaxy S9](https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s9-1.jpg)
 
-Copyright (C) 2021 AOSPK.
+Copyright (C) 2021 AOSPK  
+Copyright (C) 2024 The LineageOS Project

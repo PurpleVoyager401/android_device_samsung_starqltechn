@@ -13,11 +13,11 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_o.mk)
 # Inherit from starqltechn device
 $(call inherit-product, device/samsung/starqltechn/device.mk)
 
-# Inherit some common LineageOS stuff
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+# Inherit some common Derpfest stuff
+$(call inherit-product, vendor/derp/config/common_full_phone.mk)
 
 # Device identifier
-PRODUCT_NAME := lineage_starqltechn
+PRODUCT_NAME := derp_starqltechn
 PRODUCT_DEVICE := starqltechn
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-G9600

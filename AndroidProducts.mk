@@ -6,9 +6,9 @@
 # SPDX-License-Identifier: Apache-2.0
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_starqltechn.mk
+    $(LOCAL_DIR)/derp_starqltechn.mk
 
 COMMON_LUNCH_CHOICES := \
-	lineage_starqltechn-user \
-	lineage_starqltechn-userdebug \
-	lineage_starqltechn-eng
+	derp_starqltechn-user \
+	derp_starqltechn-userdebug \
+	derp_starqltechn-eng
